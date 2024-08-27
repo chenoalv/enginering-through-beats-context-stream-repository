@@ -1,0 +1,39 @@
+<div id="contextStreamDemo" style="width: 100%; max-width: 600px; margin: 0 auto; font-family: Arial, sans-serif;">
+  <h2>Context Stream Demonstration</h2>
+  <div id="conversation" style="border: 1px solid #ccc; padding: 10px; height: 300px; overflow-y: scroll; margin-bottom: 10px;">
+    <!-- Conversation will be displayed here -->
+  </div>
+  <input type="text" id="userInput" style="width: 80%; padding: 5px;" placeholder="Type your message...">
+  <button onclick="sendMessage()" style="width: 18%; padding: 5px;">Send</button>
+</div>
+
+<script>
+let contextStream = [];
+
+function sendMessage() {
+  const input = document.getElementById('userInput');
+  const message = input.value;
+  input.value = '';
+  
+  displayMessage('User', message);
+  contextStream.push(message);
+  
+  // Simulate AI response
+  setTimeout(() => {
+    const response = generateResponse(contextStream);
+    displayMessage('AI', response);
+    contextStream.push(response);
+  }, 1000);
+}
+
+function displayMessage(sender, message) {
+  const conversation = document.getElementById('conversation');
+  conversation.innerHTML += `<p><strong>${sender}:</strong> ${message}</p>`;
+  conversation.scrollTop = conversation.scrollHeight;
+}
+
+function generateResponse(context) {
+  // This is where you'd implement your actual context-aware response generation
+  return "This is a simulated response based on the context: " + context.slice(-3).join(", ");
+}
+</script>
