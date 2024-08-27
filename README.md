@@ -1,4 +1,4 @@
-# enginering-through-beats-context-stream-repository
+<p align="center">
 Fundamentals of Applied AI-this repository contains context streams from different AI Platforms 
 <h1 align="center">Engineering Thru Beats: Exploring Music Engineering</h1>
 
