@@ -195,3 +195,40 @@ Next steps:
 4. Finally, we'll ensure the HTML file correctly links to these audio files.
 
 Is there anything specific you'd like help with regarding the use of Suno or the process of creating these audio files? Or would you like to proceed with creating the "audio" folder in your repository while you work on generating the content?
+
+# Working with Tools (Suna & Udio)
+## Music Generators 
+
+Claude: Certainly! I apologize for missing that detail. Here's the updated context stream including that information:
+
+1. You successfully created most of the audio files using the AI generator "Udio" for frequency.mp3, amplitude.mp3, rhythm.mp3, and time-signature.mp3. One file (simple-beat.mp3) was created using "Suno".
+
+2. You created the "audio" folder in your GitHub repository and successfully uploaded all the generated audio files to this folder.
+
+3. We reviewed the contents of your "beats_with_audio.html" file and confirmed that the HTML structure was correct, with proper references to the audio files.
+
+4. You provided screenshots showing both the raw HTML of the "beats_with_audio.html" file and the contents of the "audio" folder, which helped in diagnosing the situation.
+
+5. We identified that the issue wasn't with the file structure or HTML code, but rather with how you were viewing the page.
+
+6. The solution was to view the page through GitHub Pages instead of looking at the raw HTML file directly in the repository.
+
+7. I provided you with the correct URL format for viewing your GitHub Pages site, which would be something like: https://chenoalv.github.io/engineering-thru-beats/beats_with_audio.html
+
+8. Once you used this correct URL to view your page, you confirmed that everything started working as intended.
+
+Your project now has:
+
+- A functional HTML page ("beats_with_audio.html") explaining different aspects of beats in music production.
+- Working audio examples for each concept, generated mostly by AI (Udio), with one from Suno, which users can play directly in their web browsers.
+- The page successfully hosted on GitHub Pages, making it accessible to anyone with the correct URL.
+
+This update highlights your innovative use of AI tools (Udio and Suno) to generate custom audio content for your educational page, which adds a unique and modern touch to your project.
+
+Potential next steps remain the same:
+1. Refining content or design.
+2. Adding more examples or explanations.
+3. Updating the README.md with a clear link to the new page.
+4. Considering expansions to your "Engineering Through Beats" project.
+
+Is there a specific area you'd like to focus on next, perhaps related to your use of AI-generated audio or expanding the project's scope?
