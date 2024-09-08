@@ -36,6 +36,8 @@ Throughout this process, we covered Markdown syntax, file management, GitHub usa
 
 Is there any part of this context you'd like me to elaborate on further, or do you have any new questions about your project?
 
+
+
 THEN WHAT ?
 (I Wanted to Highlight this Question to Claude)
 
