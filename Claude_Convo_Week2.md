@@ -38,7 +38,7 @@ Is there any part of this context you'd like me to elaborate on further, or do y
 
 
 
-THEN WHAT ?
+# THEN WHAT ?
 (I Wanted to Highlight this Question to Claude)
 
 ME: Ok I hope your ready! We need to figure how to include a new context stream stemming from the physics of music 'beats' to be more specific. I created a new file named 'Why Beats?.md'. I want to bring this page to life with new content, fonts, colors, maybe sound if your capable of teaching me!
@@ -163,3 +163,35 @@ In your "Why Beats?.md" file, you can link to your HTML preview:
 Remember, complex HTML/CSS/JavaScript won't render directly on GitHub, but users can download and view the HTML file locally.
 
 Would you like me to expand on any of these aspects or help you implement a specific feature for your "Why Beats?" page?
+
+# DOWN THE CONTENT RABBIT HOLE
+
+Certainly! Let's recap our progress and include the context about your experimentation with Suno:
+
+1. We successfully created the "beats_with_audio.html" file in your GitHub repository under the "engineering-thru-beats" folder.
+
+2. The HTML file is structured correctly, but it's referencing audio files that don't yet exist in your repository.
+
+3. We discussed creating an "audio" folder in your repository to store these MP3 files.
+
+4. You're currently experimenting with a generator called "Suno" to create the audio files needed for the "beats_with_audio.html" page. This is an excellent approach to generate custom audio content for your project.
+
+5. The audio files you'll need to create with Suno are:
+   - simple-beat.mp3
+   - frequency.mp3
+   - amplitude.mp3
+   - rhythm.mp3
+   - time-signature.mp3
+
+6. Once you've created these audio files using Suno, you'll need to upload them to your GitHub repository in the "audio" folder.
+
+7. We haven't yet created the "audio" folder or uploaded any files, as you're still in the process of generating the audio content.
+
+Next steps:
+
+1. Continue experimenting with Suno to create the required audio files.
+2. Once you have the audio files ready, we'll create the "audio" folder in your GitHub repository.
+3. We'll then upload the generated MP3 files to this folder.
+4. Finally, we'll ensure the HTML file correctly links to these audio files.
+
+Is there anything specific you'd like help with regarding the use of Suno or the process of creating these audio files? Or would you like to proceed with creating the "audio" folder in your repository while you work on generating the content?
