@@ -1,6 +1,6 @@
-
 <h2>Introduction & Beginning of Conversation w/ Claude 
-Week One
+
+  Week One
   
 Human: How do I implement unit tests for my project effectively?
 
