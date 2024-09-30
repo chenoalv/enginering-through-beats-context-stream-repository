@@ -1,12 +1,12 @@
 # Engineering Thru Beats: Exploring Music Engineering
 
-![Engineering Thru Beats Logo](https://via.placeholder.com/150x150)
+![Engineering Thru Beats logo](https://via.placeholder.com/150x150)
 
 Welcome to the fascinating world of music engineering, where technology and creativity harmonize to produce the soundtrack of our lives.
 
 ## What is Music Engineering?
 
-Music engineering, also known as audio engineering or sound engineering, is the technical aspect of recording, mixing, and reproducing sound. It bridges the gap between the artistic vision of musicians and the technical requirements of sound production.
+Music engineering, also known as audio engineering or sound engineering, is the technical aspect of recording, mixing, and reproducing sound.
 
 ## Weekly Progress
 
@@ -18,7 +18,6 @@ Follow our journey through music engineering:
 
 - [Week 2: Diving Deeper](Claude_Convo_Week2.md)
   - Explored advanced topics in audio engineering
-  - Discussed various tools and techniques used in the field
 
 - [Week 3: Interactive Elements](Claude_Convo_Week3.md)
   - Developed initial interactive components
@@ -27,6 +26,10 @@ Follow our journey through music engineering:
 - [Week 4: Enhancing Interactivity](Claude_Convo_Week4.md)
   - Improved existing interactive elements
   - Explored new ways to engage with music engineering concepts
+
+- [Week 5: Advanced Audio Techniques](Claude_Convo_Week5.md)
+  - Delved into sophisticated audio processing methods
+  - Implemented real-time audio manipulation features
 
 ## Key Aspects of Music Engineering
 
@@ -49,14 +52,14 @@ Music engineers work with a variety of tools, including:
 
 ## The Impact of Technology
 
-Advancements in technology have revolutionized music engineering. From analog tape machines to sophisticated digital systems, the field continues to evolve, offering new possibilities for sound creation and manipulation.
+Advancements in technology have revolutionized music engineering. From analog tape machines to sophisticated digital systems,
 
 ## Join Us on This Journey
 
-Through this project, we aim to explore the principles of music engineering, experiment with sound, and create innovative audio experiences. Whether you're a seasoned pro or just starting out, there's always something new to discover in the world of music engineering.
+Through this project, we aim to explore the principles of music engineering, experiment with sound, and create innovative audio experiences.
 
-[Try our interactive Beat Maker!](beat_maker.html)
+[Try our Interactive Beat Maker!](beat_maker.html)
 
 [Explore our Audio Guide](beats_with_audio.html)
 
-*Let's engineer the future of sound together!*
+"Let's engineer the future of sound together!"
