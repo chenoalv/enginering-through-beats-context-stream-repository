@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Project Update: Engineering Thru Beats</title>
+    <title>Project Self-Reflection: Engineering Thru Beats</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -18,54 +18,46 @@
             border-bottom: 2px solid #2c3e50;
             padding-bottom: 10px;
         }
-        h2 {
-            color: #3498db;
-        }
-        .section {
-            border: 1px solid #bdc3c7;
-            border-radius: 5px;
-            padding: 15px;
+        .question {
+            background-color: #f2f2f2;
+            padding: 10px;
             margin-bottom: 20px;
+            border-left: 5px solid #3498db;
+        }
+        .answer {
+            margin-bottom: 30px;
         }
     </style>
 </head>
 <body>
-    <h1>Project Update: Engineering Thru Beats</h1>
+    <h1>Project Self-Reflection: Engineering Thru Beats</h1>
     
-    <div class="section">
-        <h2>1. Project Recap</h2>
-        <p>Today, we began by reviewing the current state of the "Engineering Thru Beats" project. The student provided a summary of the previous week's work, which included discussions about homepage redesign, README.md file updates, and the establishment of a codeword for design revisions.</p>
+    <div class="question">
+        <p>Post your most serious lingering problem areas in your portfolio.</p>
     </div>
-    
-    <div class="section">
-        <h2>2. Clarification and Context</h2>
-        <p>There was initially some confusion about the current focus of the project. We took time to clarify the context and ensure we were on the same page regarding the project's goals and recent progress.</p>
+    <div class="answer">
+        <p>The most serious lingering problem in my portfolio for the "Engineering Thru Beats" project is the lack of fully implemented interactive elements. While we've discussed adding an interactive beat pad to the homepage, this feature hasn't been fully developed yet. Additionally, the integration of engineering concepts with music production techniques needs more depth and concrete examples.</p>
     </div>
-    
-    <div class="section">
-        <h2>3. Key Project Elements Reviewed</h2>
-        <ul>
-            <li>Homepage redesign with a cool, lowkey aesthetic inspired by FL Studio</li>
-            <li>Implementation of graffiti-style bubble letters for the title</li>
-            <li>Plans for sections on careers in producing, including salary information</li>
-            <li>Proposal for an interactive beat pad on the homepage</li>
-            <li>Inclusion of testimonials from professional producers or engineers</li>
-        </ul>
+
+    <div class="question">
+        <p>Are you too reliant on only one or two modalities?</p>
     </div>
-    
-    <div class="section">
-        <h2>4. README.md Update</h2>
-        <p>We confirmed the recent update to the README.md file, which now includes a link for Week 6: Advanced Techniques.</p>
+    <div class="answer">
+        <p>I believe I'm not overly reliant on just one or two modalities. The project incorporates various elements such as visual design (with the FL Studio-inspired aesthetic and graffiti-style lettering), interactive components (planned beat pad), and informational content (career information and testimonials). However, I could further diversify by incorporating more audio elements and possibly video tutorials to explain complex engineering concepts related to music production.</p>
     </div>
-    
-    <div class="section">
-        <h2>5. Project Management</h2>
-        <p>We revisited the established codeword "wakanda," which is used to indicate when the homepage design needs revision.</p>
+
+    <div class="question">
+        <p>Do you have an excessive number of skimpy, underdeveloped pieces?</p>
     </div>
-    
-    <div class="section">
-        <h2>6. Next Steps</h2>
-        <p>At the end of our session, we were poised to determine the next focus area for the project. The student is considering which specific aspect of the project to prioritize for upcoming development.</p>
+    <div class="answer">
+        <p>While the project has several components planned, some of them are indeed underdeveloped at this stage. For instance, the career information section and the testimonials from professionals are still in the conceptual phase. The interactive beat pad, while a great idea, needs more work to become a fully functional feature. Moving forward, I need to focus on fleshing out these ideas and turning them into robust, well-developed components of the project.</p>
+    </div>
+
+    <div class="question">
+        <p>Does your portfolio lack a unifying topic or practical purpose?</p>
+    </div>
+    <div class="answer">
+        <p>I don't believe my portfolio lacks a unifying topic or practical purpose. The "Engineering Thru Beats" project has a clear focus on combining engineering education with music production, which serves as a strong unifying theme. The practical purpose is evident: to engage students in engineering concepts through the appealing medium of music creation. However, I could strengthen this by more explicitly connecting each component of the project back to specific engineering principles, ensuring that the educational aspect is as robust as the musical one.</p>
     </div>
 </body>
 </html>
