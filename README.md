@@ -23,35 +23,35 @@
         <h2>Weekly Progress</h2>
         <div class="weeks-container">
             <div class="week-card">
-                <h3><a href="Claude_Convo_Week1.md">Week 1: Project Initiation</a></h3>
+                <h3><a href="Claude_Convo_Week1.html">Week 1: Project Initiation</a></h3>
                 <p>Established project goals and scope, introduced basic concepts</p>
             </div>
             <div class="week-card">
-                <h3><a href="Claude_Convo_Week2.md">Week 2: Diving Deeper</a></h3>
+                <h3><a href="Claude_Convo_Week2.html">Week 2: Diving Deeper</a></h3>
                 <p>Explored advanced topics in audio engineering</p>
             </div>
             <div class="week-card">
-                <h3><a href="Claude_Convo_Week3.md">Week 3: Interactive Elements</a></h3>
+                <h3><a href="Claude_Convo_Week3.html">Week 3: Interactive Elements</a></h3>
                 <p>Developed initial interactive components</p>
             </div>
             <div class="week-card">
-                <h3><a href="Claude_Convo_Week4.md">Week 4: Further Development</a></h3>
+                <h3><a href="Claude_Convo_Week4.html">Week 4: Further Development</a></h3>
                 <p>Continued progress on our project</p>
             </div>
             <div class="week-card">
-                <h3><a href="Claude_Convo_Week5.md">Week 5: Continued Progress</a></h3>
+                <h3><a href="Claude_Convo_Week5.html">Week 5: Continued Progress</a></h3>
                 <p>Building upon previous weeks' work</p>
             </div>
             <div class="week-card">
-                <h3><a href="Claude_Convo_Week6.md">Week 6: Advanced Techniques</a></h3>
+                <h3><a href="Claude_Convo_Week6.html">Week 6: Advanced Techniques</a></h3>
                 <p>Explored complex audio processing and mixing strategies</p>
             </div>
             <div class="week-card">
-                <h3><a href="Claude_Convo_Week7.md">Week 7: Refinement</a></h3>
+                <h3><a href="Claude_Convo_Week7.html">Week 7: Refinement</a></h3>
                 <p>Fine-tuning our project elements</p>
             </div>
             <div class="week-card">
-                <h3><a href="Claude_Convo_Week8.md">Week 8: Final Touches</a></h3>
+                <h3><a href="Claude_Convo_Week8.html">Week 8: Final Touches</a></h3>
                 <p>Putting the finishing touches on our project</p>
             </div>
         </div>
