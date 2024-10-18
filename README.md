@@ -4,57 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Engineering Thru Beats: Weekly Development Showcase</title>
-    <style>
-        body {
-            font-family: 'Arial', sans-serif;
-            line-height: 1.6;
-            color: #333;
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-            background-color: #f4f4f4;
-        }
-        header {
-            background-color: #2c3e50;
-            color: #ecf0f1;
-            text-align: center;
-            padding: 1em;
-            border-radius: 5px;
-        }
-        h1, h2 {
-            color: #2c3e50;
-        }
-        .intro {
-            background-color: #ecf0f1;
-            padding: 20px;
-            border-radius: 5px;
-            margin-bottom: 20px;
-        }
-        .weeks-container {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-            gap: 15px;
-        }
-        .week-card {
-            background-color: #fff;
-            border: 1px solid #ddd;
-            border-radius: 5px;
-            padding: 15px;
-            text-align: center;
-            transition: transform 0.3s ease;
-        }
-        .week-card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
-        }
-        a {
-            color: #3498db;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-    </style>
 </head>
 <body>
     <header>
